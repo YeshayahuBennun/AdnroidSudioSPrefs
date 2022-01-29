@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SPrefs</string>
+    <string name="messager_hint">Enter a message</string>
 </resources>
